@@ -1,7 +1,7 @@
 - 👋 Hello World!, I’m Ujjwal!
 - 👀 I’m interested in music, photography, video editing and programming(offcourse)
 - 🌱 I’m currently learning all these things
-- 💞️ I’m looking to collaborate on javascript/CSS/python projects
+- 💞️ I’m looking to collaborate on javascript/c++/python projects
 - 📫 For contact mail me at ujjwalja23@gmail.com
 
 <!---
