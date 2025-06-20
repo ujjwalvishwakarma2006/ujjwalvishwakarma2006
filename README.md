@@ -1,4 +1,5 @@
-# Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?
+</h1>
 
 <p> Welcome to my GitHub Page! <br>
 I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy solving DSA problems, building fun projects, and reading research papers. I also enjoy working in teams and have been into programming for almost two years now. </p>
@@ -52,8 +53,8 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
       <br>Git
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" style="filter: drop-shadow(0 0 4px #fff) drop-shadow(0 0 8px #fff);" />
+    <td align="center" width="106">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" style="filter: drop-shadow(0 0 2px rgb(255, 255, 255)) drop-shadow(0 0 2px rgb(255, 255, 255))" />
       <br>GitHub
     </td>
     <td align="center" width="96">
