@@ -19,7 +19,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="65" height="65" style="filter: drop-shadow(0 0 4px #fff) drop-shadow(0 0 8px #fff);" />
+      <img src="./rust-lang.png" alt="Rust" width="65" height="65" />
       <br>Rust
     </td>
     <td align="center" width="96">
