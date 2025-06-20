@@ -19,7 +19,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="65" height="65" style="filter: invert(1);" />
+      <img src="./rust-lang.png" alt="Rust" width="65" height="65" />
       <br>Rust
     </td>
     <td align="center" width="96">
@@ -27,7 +27,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" alt="Keras" width="65" height="65" />
+      <img src="./keras.png" alt="Keras" width="65" height="65" />
       <br>Keras
     </td>
     <td align="center" width="96">
