@@ -19,7 +19,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="65" height="65" style="filter: invert(1);" />
       <br>Rust
     </td>
     <td align="center" width="96">
@@ -27,7 +27,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Keras_logo.svg" alt="Keras" width="65" height="65" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" alt="Keras" width="65" height="65" />
       <br>Keras
     </td>
     <td align="center" width="96">
@@ -53,7 +53,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" style="filter: invert(1);" />
       <br>GitHub
     </td>
     <td align="center" width="96">
