@@ -54,7 +54,7 @@ I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy
       <br>Git
     </td>
     <td align="center" width="106">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" style="filter: drop-shadow(0 0 2px rgb(255, 255, 255)) drop-shadow(0 0 2px rgb(255, 255, 255))" />
+      <img src="./github.svg" width="65" height="65" alt="GitHub" style="filter: drop-shadow(0 0 2px rgb(255, 255, 255)) drop-shadow(0 0 2px rgb(255, 255, 255))" />
       <br>GitHub
     </td>
     <td align="center" width="96">
