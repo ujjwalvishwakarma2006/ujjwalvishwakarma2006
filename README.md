@@ -1,13 +1,13 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?
 </h1>
 
-<p> Welcome to my GitHub Page! <br>
-I’m Ujjwal Vishwakarma, a Computer Science undergraduate at IIT Jammu. I enjoy solving DSA problems, building fun projects, and reading research papers. I also enjoy working in teams and have been into programming for almost two years now. </p>
+<p> Hello there! <br>
+Happy to see you here. I’m a pre-final year student at IIT Jammu, J&K, India. I have more than two and a half years of programming experience. I prefer C++, but I also use Python and Rust wherever required. I solve DSA problems a lot and work on projects that include both my own ideas and curriculum-based requirements. I have a genuine interest in Deep Learning and try to stay updated with the latest trends. I have read various deep learning research papers and completed the Deep Learning book by François Chollet, an ex-Google researcher. I have an intermediate understanding of web development. These days, for prototyping, I usually do vibe-coding first and then write test scripts to verify everything. So far, this approach has consistently worked and has been able to do exactly what I want. Apart from this, I enjoy applying heuristics to solve complex problems. Recently, my team and I used a Genetic Algorithm to optimize 3D bin packing for cargo optimization. </p>
 
-## My favorite Tools and technologies used 
+## My toolkit
 <!-- C++, Python, Rust, Tensorflow, Keras, Linux, HTML, CSS, JS, Git, CMake, SQLite, Node, React -->
 
-> Tools and technologies that I have worked with and am interested in
+> I have a significant experience and interest in following tools and technologies:
 
 <table>
   <tr>
